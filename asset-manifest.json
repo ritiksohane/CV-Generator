@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/CV-Generator/static/css/main.8f1818e5.css",
+    "main.js": "/CV-Generator/static/js/main.c9ee83b1.js",
+    "static/js/496.24b60b9a.chunk.js": "/CV-Generator/static/js/496.24b60b9a.chunk.js",
+    "static/media/whatsapp.svg": "/CV-Generator/static/media/whatsapp.7dc3f3267bee9b39fd8d08466208e48a.svg",
+    "static/media/github.svg": "/CV-Generator/static/media/github.4cd3a2bc790226c346ae943ec1622139.svg",
+    "index.html": "/CV-Generator/index.html",
+    "static/media/gmail.svg": "/CV-Generator/static/media/gmail.e1bc2ceb745debf9361ad2160a79823a.svg",
+    "static/media/linkedin.svg": "/CV-Generator/static/media/linkedin.8762f6e957e5d6c297b9cbc434ecf218.svg",
+    "main.8f1818e5.css.map": "/CV-Generator/static/css/main.8f1818e5.css.map",
+    "main.c9ee83b1.js.map": "/CV-Generator/static/js/main.c9ee83b1.js.map",
+    "496.24b60b9a.chunk.js.map": "/CV-Generator/static/js/496.24b60b9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f1818e5.css",
+    "static/js/main.c9ee83b1.js"
+  ]
+}
